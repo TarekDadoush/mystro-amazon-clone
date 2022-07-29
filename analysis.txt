@@ -1,12 +1,24 @@
 Amazon clone:
   - payment:
  
-     - paypal
-     - credit card (master card and visa card)
-     - bank transfer
-     - crypto
+	- paypal
+      - credit card (master card and visa card)
+      - bank transfer
+      - crypto
 
   - products
   - users
   - coupons
-  - order
+  - order:
+
+	- tracking ID
+
+-------------------------------------------------------------
+
+  - clean UI
+  - fast
+  - secure
+  - api
+  - advanced reports
+
+	
