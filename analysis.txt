@@ -20,5 +20,9 @@ Amazon clone:
   - secure
   - api
   - advanced reports
+-------------------------------------------------------------
+
+  - good team
+  - fast host
 
 	
